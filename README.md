@@ -1,6 +1,6 @@
 # InstaAutoFollowers
 
-Instagram can be a great tool for introducing new products or services you offer or giving directions on how to set up or use specific products. For helping your own business or simply as a marketing business (+10k) instagram can be a great tool to earn some money. Here a tool you can use for it ¡
+Instagram can be a great tool for introducing new products or services. For helping your own business or simply as a marketing business (+10k) instagram can be a great tool to earn some money. Here a tool you can use for it ¡
 
 # Instruccions
 
