@@ -10,11 +10,11 @@ Instagram can be a great tool for introducing new products or services. For help
 https://chromedriver.chromium.org/downloads
 
 check with your chrome version and place it in the program directory
-3) get an insta group and scann the followers with the script bellow.
+3) get an insta group and scan the followers with the script bellow.
 4) that's all ;)
 
 
-To get followers names you can use robot framwork and scann it directly from the screen, with this script (according to my screen size):
+To get followers names you can use robot framwork and scan it directly from the screen, with this script (according to my screen size):
 
    r1 = new Robot();
         //presiona boton de seguidores:
