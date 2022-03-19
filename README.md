@@ -4,7 +4,7 @@ Instagram can be a great tool for introducing new products or services. For help
 
 # Instruccions
 
-1) make an instagram account and get the coockies of the session, then fill the coockies into the programs
+1) make an instagram account and get the coockies of the session, then fill the coockies into the script
 2) get the chrome selenium driver from:
 
 https://chromedriver.chromium.org/downloads
